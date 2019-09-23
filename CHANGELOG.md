@@ -1,6 +1,14 @@
 
 ## CHANGELOG
 
+### v3.1.5
+
+fixed ssr setup
+
+### v3.1.4
+
+moving to new repo
+
 ### v3.1.3
 
 fixed bug with swiper inside transition. #276
